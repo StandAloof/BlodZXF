@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Clippings on 知昔非</title>
-        <link>https://StandAloof.github.io/BlodZXF/tags/clippings/</link>
+        <link>http://localhost:1313/BlodZXF/tags/clippings/</link>
         <description>Recent content in Clippings on 知昔非</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>知昔非</copyright>
-        <lastBuildDate>Sun, 07 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://StandAloof.github.io/BlodZXF/tags/clippings/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 07 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/BlodZXF/tags/clippings/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Sketch Your Mind — Zsolt Viczián</title>
-        <link>https://StandAloof.github.io/BlodZXF/p/sketch-your-mind-zsolt-viczi%C3%A1n/</link>
+        <link>http://localhost:1313/BlodZXF/p/sketch-your-mind-zsolt-viczi%C3%A1n/</link>
         <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://StandAloof.github.io/BlodZXF/p/sketch-your-mind-zsolt-viczi%C3%A1n/</guid>
+        <guid>http://localhost:1313/BlodZXF/p/sketch-your-mind-zsolt-viczi%C3%A1n/</guid>
         <description>&lt;img src="https://sketch-your-mind.com/2025/assets/banner-conference.png" alt="Featured image of post Sketch Your Mind — Zsolt Viczián" /&gt;&lt;h2 id=&#34;欢迎来到-sketch-your-mind&#34;&gt;欢迎来到 Sketch Your Mind
 &lt;/h2&gt;&lt;p&gt;将笔记打造成创意乐园&lt;/p&gt;
 &lt;h2 id=&#34;摘要&#34;&gt;摘要
 &lt;/h2&gt;&lt;p&gt;探究集草图与文字于一体的&lt;strong&gt;混合笔记法&lt;/strong&gt;，究竟如何让知识变得更易记、更关联、更具实用性。&lt;/p&gt;
 &lt;p&gt;在这场开场分享中，Zsolt 将为这场以好奇心、创造力与联结力为核心的会议拉开序幕。他会介绍自己著作《绘出你的思维》中的核心理念，并演示混合笔记法如何将草图、文字与空间布局融为一体，构建成一套鲜活的创意体系。你不必拥有绘画功底，无论是文字优先型思考者，还是视觉优先型思考者，都能轻松驾驭这种笔记法。通过将笔记 “&lt;strong&gt;乐高化&lt;/strong&gt;”，你可以跳出线性思维的局限，激发全新的思维联结，让知识变成可探索、可分享、可不断拓展的存在。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://StandAloof.github.io/BlodZXF/p/sketch-your-mind-zsolt-viczi%C3%A1n/Sketch-Your-Mind-cover.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/BlodZXF/p/sketch-your-mind-zsolt-viczi%C3%A1n/Sketch-Your-Mind-cover.jpg&#34;
 	width=&#34;855&#34;
 	height=&#34;1280&#34;
-	srcset=&#34;https://StandAloof.github.io/BlodZXF/p/sketch-your-mind-zsolt-viczi%C3%A1n/Sketch-Your-Mind-cover_hu_58064270d6464eda.jpg 480w, https://StandAloof.github.io/BlodZXF/p/sketch-your-mind-zsolt-viczi%C3%A1n/Sketch-Your-Mind-cover_hu_10652e5ce8cd9599.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/BlodZXF/p/sketch-your-mind-zsolt-viczi%C3%A1n/Sketch-Your-Mind-cover_hu_58064270d6464eda.jpg 480w, http://localhost:1313/BlodZXF/p/sketch-your-mind-zsolt-viczi%C3%A1n/Sketch-Your-Mind-cover_hu_10652e5ce8cd9599.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Sketch You Mind&#34;
