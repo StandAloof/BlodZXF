@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Markdown on 知昔非</title>
-        <link>http://localhost:1313/categories/markdown/</link>
+        <link>https://StandAloof.github.io/BlodZXF/categories/markdown/</link>
         <description>Recent content in Markdown on 知昔非</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>知昔非</copyright>
-        <lastBuildDate>Mon, 29 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/markdown/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 29 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://StandAloof.github.io/BlodZXF/categories/markdown/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Hugo语法测试</title>
-        <link>http://localhost:1313/p/hugo%E8%AF%AD%E6%B3%95%E6%B5%8B%E8%AF%95/</link>
+        <link>https://StandAloof.github.io/BlodZXF/p/hugo%E8%AF%AD%E6%B3%95%E6%B5%8B%E8%AF%95/</link>
         <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/hugo%E8%AF%AD%E6%B3%95%E6%B5%8B%E8%AF%95/</guid>
-        <description>&lt;img src="http://localhost:1313/p/hugo%E8%AF%AD%E6%B3%95%E6%B5%8B%E8%AF%95/Hugo%E5%AE%98%E7%BD%91.png" alt="Featured image of post Hugo语法测试" /&gt;&lt;h2 id=&#34;markdown-基本语法&#34;&gt;markdown 基本语法
+        <guid>https://StandAloof.github.io/BlodZXF/p/hugo%E8%AF%AD%E6%B3%95%E6%B5%8B%E8%AF%95/</guid>
+        <description>&lt;img src="https://StandAloof.github.io/BlodZXF/p/hugo%E8%AF%AD%E6%B3%95%E6%B5%8B%E8%AF%95/Hugo%E5%AE%98%E7%BD%91.png" alt="Featured image of post Hugo语法测试" /&gt;&lt;h2 id=&#34;markdown-基本语法&#34;&gt;markdown 基本语法
 &lt;/h2&gt;&lt;h3 id=&#34;文本样式&#34;&gt;文本样式
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;文本加粗&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;文本斜体&lt;/em&gt;&lt;/p&gt;
@@ -562,7 +562,7 @@ $$f(x) = \int_{-\infty}^{x} e^{-t^2} dt$$&lt;p&gt;Press &lt;kbd&gt;CTRL&lt;/kbd&
         &lt;div class=&#34;timeline__tags&#34;&gt;
             &lt;span class=&#34;timeline__tag&#34;&gt;weekday&lt;/span&gt;
         &lt;/div&gt;
-        &lt;a href=&#34;http://localhost:1313/&#34;&gt;
+        &lt;a href=&#34;https://StandAloof.github.io/BlodZXF/&#34;&gt;
             &lt;div class=&#34;timeline__title&#34;&gt;周一&lt;/div&gt;
         &lt;/a&gt;
         
@@ -902,18 +902,18 @@ $$f(x) = \int_{-\infty}^{x} e^{-t^2} dt$$&lt;p&gt;Press &lt;kbd&gt;CTRL&lt;/kbd&
 &lt;/h3&gt;&lt;h3 id=&#34;选项卡&#34;&gt;选项卡
 &lt;/h3&gt;&lt;div class=&#34;tabs&#34;&gt;
 
-&lt;input type=&#34;radio&#34; name=&#34;tabs&#34; id=&#34;tab-824713965-&#34;checked/&gt;
-&lt;label for=&#34;tab-824713965-&#34;&gt;中文&lt;/label&gt;
+&lt;input type=&#34;radio&#34; name=&#34;tabs&#34; id=&#34;tab-315672489-&#34;checked/&gt;
+&lt;label for=&#34;tab-315672489-&#34;&gt;中文&lt;/label&gt;
 &lt;div class=&#34;tab&#34;&gt;百合花（学名：Lilium）通称百合花，是百合目百合科的一属，为多年生草本球根植物，属内物种繁多，经常作为观赏植物。主要分布在亚洲东部、欧洲、北美洲等北半球温带地区，全球已发现有至少96个品种，其中5种产于台湾。近年更有不少经过人工杂交而产生的新品种，如OT百合、东方型百合、玫瑰百合等。百合属对猫来说有剧毒。&lt;/div&gt;
 
 
-&lt;input type=&#34;radio&#34; name=&#34;tabs&#34; id=&#34;tab-825976341-&#34;/&gt;
-&lt;label for=&#34;tab-825976341-&#34;&gt;English&lt;/label&gt;
+&lt;input type=&#34;radio&#34; name=&#34;tabs&#34; id=&#34;tab-685371429-&#34;/&gt;
+&lt;label for=&#34;tab-685371429-&#34;&gt;English&lt;/label&gt;
 &lt;div class=&#34;tab&#34;&gt;Lilium is a genus of herbaceous flowering plants growing from bulbs, all with large prominent flowers. They are the true lilies. Lilies are a group of flowering plants which are important in culture and literature in much of the world. Most species are native to the northern hemisphere and their range is temperate climates and extends into the subtropics. Many other plants have &amp;ldquo;lily&amp;rdquo; in their common names, but do not belong to the same genus and are therefore not true lilies.&lt;/div&gt;
 
 
-&lt;input type=&#34;radio&#34; name=&#34;tabs&#34; id=&#34;tab-718965234-&#34;/&gt;
-&lt;label for=&#34;tab-718965234-&#34;&gt;Español&lt;/label&gt;
+&lt;input type=&#34;radio&#34; name=&#34;tabs&#34; id=&#34;tab-392584617-&#34;/&gt;
+&lt;label for=&#34;tab-392584617-&#34;&gt;Español&lt;/label&gt;
 &lt;div class=&#34;tab&#34;&gt;Las especies de Lilium, comúnmente llamadas azucenas o lirios, constituyen un género con alrededor de 110 integrantes que se incluye dentro de la familia de las liliáceas. Los lirios son herbáceas perennes de tallos erectos con numerosas hojas alternas, lineares a lance balas. Crecen a partir de bulbos formados por capas de escamas carnosas sin túnica.&lt;/div&gt;
 
 

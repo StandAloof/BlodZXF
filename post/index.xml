@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on 知昔非</title>
-        <link>http://localhost:1313/post/</link>
+        <link>https://StandAloof.github.io/BlodZXF/post/</link>
         <description>Recent content in Posts on 知昔非</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>知昔非</copyright>
-        <lastBuildDate>Mon, 29 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 29 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://StandAloof.github.io/BlodZXF/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Hugo语法测试</title>
-        <link>http://localhost:1313/p/hugo%E8%AF%AD%E6%B3%95%E6%B5%8B%E8%AF%95/</link>
+        <link>https://StandAloof.github.io/BlodZXF/p/hugo%E8%AF%AD%E6%B3%95%E6%B5%8B%E8%AF%95/</link>
         <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/hugo%E8%AF%AD%E6%B3%95%E6%B5%8B%E8%AF%95/</guid>
-        <description>&lt;img src="http://localhost:1313/p/hugo%E8%AF%AD%E6%B3%95%E6%B5%8B%E8%AF%95/Hugo%E5%AE%98%E7%BD%91.png" alt="Featured image of post Hugo语法测试" /&gt;&lt;h2 id=&#34;markdown-基本语法&#34;&gt;markdown 基本语法
+        <guid>https://StandAloof.github.io/BlodZXF/p/hugo%E8%AF%AD%E6%B3%95%E6%B5%8B%E8%AF%95/</guid>
+        <description>&lt;img src="https://StandAloof.github.io/BlodZXF/p/hugo%E8%AF%AD%E6%B3%95%E6%B5%8B%E8%AF%95/Hugo%E5%AE%98%E7%BD%91.png" alt="Featured image of post Hugo语法测试" /&gt;&lt;h2 id=&#34;markdown-基本语法&#34;&gt;markdown 基本语法
 &lt;/h2&gt;&lt;h3 id=&#34;文本样式&#34;&gt;文本样式
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;文本加粗&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;文本斜体&lt;/em&gt;&lt;/p&gt;
@@ -562,7 +562,7 @@ $$f(x) = \int_{-\infty}^{x} e^{-t^2} dt$$&lt;p&gt;Press &lt;kbd&gt;CTRL&lt;/kbd&
         &lt;div class=&#34;timeline__tags&#34;&gt;
             &lt;span class=&#34;timeline__tag&#34;&gt;weekday&lt;/span&gt;
         &lt;/div&gt;
-        &lt;a href=&#34;http://localhost:1313/&#34;&gt;
+        &lt;a href=&#34;https://StandAloof.github.io/BlodZXF/&#34;&gt;
             &lt;div class=&#34;timeline__title&#34;&gt;周一&lt;/div&gt;
         &lt;/a&gt;
         
@@ -902,18 +902,18 @@ $$f(x) = \int_{-\infty}^{x} e^{-t^2} dt$$&lt;p&gt;Press &lt;kbd&gt;CTRL&lt;/kbd&
 &lt;/h3&gt;&lt;h3 id=&#34;选项卡&#34;&gt;选项卡
 &lt;/h3&gt;&lt;div class=&#34;tabs&#34;&gt;
 
-&lt;input type=&#34;radio&#34; name=&#34;tabs&#34; id=&#34;tab-824713965-&#34;checked/&gt;
-&lt;label for=&#34;tab-824713965-&#34;&gt;中文&lt;/label&gt;
+&lt;input type=&#34;radio&#34; name=&#34;tabs&#34; id=&#34;tab-315672489-&#34;checked/&gt;
+&lt;label for=&#34;tab-315672489-&#34;&gt;中文&lt;/label&gt;
 &lt;div class=&#34;tab&#34;&gt;百合花（学名：Lilium）通称百合花，是百合目百合科的一属，为多年生草本球根植物，属内物种繁多，经常作为观赏植物。主要分布在亚洲东部、欧洲、北美洲等北半球温带地区，全球已发现有至少96个品种，其中5种产于台湾。近年更有不少经过人工杂交而产生的新品种，如OT百合、东方型百合、玫瑰百合等。百合属对猫来说有剧毒。&lt;/div&gt;
 
 
-&lt;input type=&#34;radio&#34; name=&#34;tabs&#34; id=&#34;tab-825976341-&#34;/&gt;
-&lt;label for=&#34;tab-825976341-&#34;&gt;English&lt;/label&gt;
+&lt;input type=&#34;radio&#34; name=&#34;tabs&#34; id=&#34;tab-685371429-&#34;/&gt;
+&lt;label for=&#34;tab-685371429-&#34;&gt;English&lt;/label&gt;
 &lt;div class=&#34;tab&#34;&gt;Lilium is a genus of herbaceous flowering plants growing from bulbs, all with large prominent flowers. They are the true lilies. Lilies are a group of flowering plants which are important in culture and literature in much of the world. Most species are native to the northern hemisphere and their range is temperate climates and extends into the subtropics. Many other plants have &amp;ldquo;lily&amp;rdquo; in their common names, but do not belong to the same genus and are therefore not true lilies.&lt;/div&gt;
 
 
-&lt;input type=&#34;radio&#34; name=&#34;tabs&#34; id=&#34;tab-718965234-&#34;/&gt;
-&lt;label for=&#34;tab-718965234-&#34;&gt;Español&lt;/label&gt;
+&lt;input type=&#34;radio&#34; name=&#34;tabs&#34; id=&#34;tab-392584617-&#34;/&gt;
+&lt;label for=&#34;tab-392584617-&#34;&gt;Español&lt;/label&gt;
 &lt;div class=&#34;tab&#34;&gt;Las especies de Lilium, comúnmente llamadas azucenas o lirios, constituyen un género con alrededor de 110 integrantes que se incluye dentro de la familia de las liliáceas. Los lirios son herbáceas perennes de tallos erectos con numerosas hojas alternas, lineares a lance balas. Crecen a partir de bulbos formados por capas de escamas carnosas sin túnica.&lt;/div&gt;
 
 
@@ -936,19 +936,19 @@ $$f(x) = \int_{-\infty}^{x} e^{-t^2} dt$$&lt;p&gt;Press &lt;kbd&gt;CTRL&lt;/kbd&
         </item>
         <item>
         <title>Sketch Your Mind — Zsolt Viczián</title>
-        <link>http://localhost:1313/p/sketch-your-mind-zsolt-viczi%C3%A1n/</link>
+        <link>https://StandAloof.github.io/BlodZXF/p/sketch-your-mind-zsolt-viczi%C3%A1n/</link>
         <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/sketch-your-mind-zsolt-viczi%C3%A1n/</guid>
+        <guid>https://StandAloof.github.io/BlodZXF/p/sketch-your-mind-zsolt-viczi%C3%A1n/</guid>
         <description>&lt;img src="https://sketch-your-mind.com/2025/assets/banner-conference.png" alt="Featured image of post Sketch Your Mind — Zsolt Viczián" /&gt;&lt;h2 id=&#34;欢迎来到-sketch-your-mind&#34;&gt;欢迎来到 Sketch Your Mind
 &lt;/h2&gt;&lt;p&gt;将笔记打造成创意乐园&lt;/p&gt;
 &lt;h2 id=&#34;摘要&#34;&gt;摘要
 &lt;/h2&gt;&lt;p&gt;探究集草图与文字于一体的&lt;strong&gt;混合笔记法&lt;/strong&gt;，究竟如何让知识变得更易记、更关联、更具实用性。&lt;/p&gt;
 &lt;p&gt;在这场开场分享中，Zsolt 将为这场以好奇心、创造力与联结力为核心的会议拉开序幕。他会介绍自己著作《绘出你的思维》中的核心理念，并演示混合笔记法如何将草图、文字与空间布局融为一体，构建成一套鲜活的创意体系。你不必拥有绘画功底，无论是文字优先型思考者，还是视觉优先型思考者，都能轻松驾驭这种笔记法。通过将笔记 “&lt;strong&gt;乐高化&lt;/strong&gt;”，你可以跳出线性思维的局限，激发全新的思维联结，让知识变成可探索、可分享、可不断拓展的存在。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/sketch-your-mind-zsolt-viczi%C3%A1n/Sketch-Your-Mind-cover.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://StandAloof.github.io/BlodZXF/p/sketch-your-mind-zsolt-viczi%C3%A1n/Sketch-Your-Mind-cover.jpg&#34;
 	width=&#34;855&#34;
 	height=&#34;1280&#34;
-	srcset=&#34;http://localhost:1313/p/sketch-your-mind-zsolt-viczi%C3%A1n/Sketch-Your-Mind-cover_hu_58064270d6464eda.jpg 480w, http://localhost:1313/p/sketch-your-mind-zsolt-viczi%C3%A1n/Sketch-Your-Mind-cover_hu_10652e5ce8cd9599.jpg 1024w&#34;
+	srcset=&#34;https://StandAloof.github.io/BlodZXF/p/sketch-your-mind-zsolt-viczi%C3%A1n/Sketch-Your-Mind-cover_hu_58064270d6464eda.jpg 480w, https://StandAloof.github.io/BlodZXF/p/sketch-your-mind-zsolt-viczi%C3%A1n/Sketch-Your-Mind-cover_hu_10652e5ce8cd9599.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Sketch You Mind&#34;
@@ -1095,11 +1095,11 @@ $$f(x) = \int_{-\infty}^{x} e^{-t^2} dt$$&lt;p&gt;Press &lt;kbd&gt;CTRL&lt;/kbd&
         </item>
         <item>
         <title>Chinese Test</title>
-        <link>http://localhost:1313/p/test-chinese/</link>
+        <link>https://StandAloof.github.io/BlodZXF/p/test-chinese/</link>
         <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/test-chinese/</guid>
-        <description>&lt;img src="http://localhost:1313/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post Chinese Test" /&gt;&lt;h2 id=&#34;正文测试&#34;&gt;正文测试
+        <guid>https://StandAloof.github.io/BlodZXF/p/test-chinese/</guid>
+        <description>&lt;img src="https://StandAloof.github.io/BlodZXF/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post Chinese Test" /&gt;&lt;h2 id=&#34;正文测试&#34;&gt;正文测试
 &lt;/h2&gt;&lt;p&gt;而这些并不是完全重要，更加重要的问题是， 带着这些问题，我们来审视一下学生会退会。 既然如何， 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 我们不得不面对一个非常尴尬的事实，那就是， 可是，即使是这样，学生会退会的出现仍然代表了一定的意义。 学生会退会，发生了会如何，不发生又会如何。 经过上述讨论， 生活中，若学生会退会出现了，我们就不得不考虑它出现了的事实。 学生会退会，到底应该如何实现。 这样看来， 在这种困难的抉择下，本人思来想去，寝食难安。 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 就我个人来说，学生会退会对我的意义，不能不说非常重大。 莎士比亚曾经提到过，人的一生是短的，但如果卑劣地过这一生，就太长了。这似乎解答了我的疑惑。 莫扎特说过一句富有哲理的话，谁和我一样用功，谁就会和我一样成功。这启发了我， 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 学生会退会，到底应该如何实现。 一般来说， 从这个角度来看， 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 在这种困难的抉择下，本人思来想去，寝食难安。 了解清楚学生会退会到底是一种怎么样的存在，是解决一切问题的关键。 一般来说， 生活中，若学生会退会出现了，我们就不得不考虑它出现了的事实。 问题的关键究竟为何？ 而这些并不是完全重要，更加重要的问题是。&lt;/p&gt;
 &lt;p&gt;奥斯特洛夫斯基曾经说过，共同的事业，共同的斗争，可以使人们产生忍受一切的力量。　带着这句话，我们还要更加慎重的审视这个问题： 一般来讲，我们都必须务必慎重的考虑考虑。 既然如此， 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 带着这些问题，我们来审视一下学生会退会。 我认为， 我认为， 在这种困难的抉择下，本人思来想去，寝食难安。 问题的关键究竟为何？ 每个人都不得不面对这些问题。 在面对这种问题时， 要想清楚，学生会退会，到底是一种怎么样的存在。 我认为， 既然如此， 每个人都不得不面对这些问题。 在面对这种问题时， 那么， 我认为， 学生会退会因何而发生。&lt;/p&gt;
 &lt;h2 id=&#34;引用&#34;&gt;引用
@@ -1121,10 +1121,10 @@ $$f(x) = \int_{-\infty}^{x} e^{-t^2} dt$$&lt;p&gt;Press &lt;kbd&gt;CTRL&lt;/kbd&
 &lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2 id=&#34;图片&#34;&gt;图片
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://StandAloof.github.io/BlodZXF/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash.jpg&#34;
 	width=&#34;667&#34;
 	height=&#34;1000&#34;
-	srcset=&#34;http://localhost:1313/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash_hu_7b8a06820e6d5c.jpg 480w, http://localhost:1313/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash_hu_a347f10e565b40ff.jpg 1024w&#34;
+	srcset=&#34;https://StandAloof.github.io/BlodZXF/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash_hu_7b8a06820e6d5c.jpg 480w, https://StandAloof.github.io/BlodZXF/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash_hu_a347f10e565b40ff.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Photo by Florian Klauer on Unsplash&#34;
@@ -1134,10 +1134,10 @@ $$f(x) = \int_{-\infty}^{x} e^{-t^2} dt$$&lt;p&gt;Press &lt;kbd&gt;CTRL&lt;/kbd&
 		data-flex-grow=&#34;66&#34;
 		data-flex-basis=&#34;160px&#34;
 	
-&gt;  &lt;img src=&#34;http://localhost:1313/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash.jpg&#34;
+&gt;  &lt;img src=&#34;https://StandAloof.github.io/BlodZXF/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;667&#34;
-	srcset=&#34;http://localhost:1313/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu_258fc4da0cfc7de9.jpg 480w, http://localhost:1313/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu_d415bcea096fe061.jpg 1024w&#34;
+	srcset=&#34;https://StandAloof.github.io/BlodZXF/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu_258fc4da0cfc7de9.jpg 480w, https://StandAloof.github.io/BlodZXF/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu_d415bcea096fe061.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Photo by Luca Bravo on Unsplash&#34;
@@ -1148,10 +1148,10 @@ $$f(x) = \int_{-\infty}^{x} e^{-t^2} dt$$&lt;p&gt;Press &lt;kbd&gt;CTRL&lt;/kbd&
 		data-flex-basis=&#34;359px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://StandAloof.github.io/BlodZXF/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu_dfbb0c559c3df461.jpg 480w, http://localhost:1313/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu_212d0718b8e99eaa.jpg 1024w&#34;
+	srcset=&#34;https://StandAloof.github.io/BlodZXF/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu_dfbb0c559c3df461.jpg 480w, https://StandAloof.github.io/BlodZXF/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu_212d0718b8e99eaa.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Photo by Helena Hertz on Unsplash&#34;
@@ -1161,10 +1161,10 @@ $$f(x) = \int_{-\infty}^{x} e^{-t^2} dt$$&lt;p&gt;Press &lt;kbd&gt;CTRL&lt;/kbd&
 		data-flex-grow=&#34;133&#34;
 		data-flex-basis=&#34;320px&#34;
 	
-&gt;  &lt;img src=&#34;http://localhost:1313/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash.jpg&#34;
+&gt;  &lt;img src=&#34;https://StandAloof.github.io/BlodZXF/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash.jpg&#34;
 	width=&#34;667&#34;
 	height=&#34;1000&#34;
-	srcset=&#34;http://localhost:1313/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash_hu_41819e288bf4a8c0.jpg 480w, http://localhost:1313/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash_hu_1277885c87f69490.jpg 1024w&#34;
+	srcset=&#34;https://StandAloof.github.io/BlodZXF/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash_hu_41819e288bf4a8c0.jpg 480w, https://StandAloof.github.io/BlodZXF/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash_hu_1277885c87f69490.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Photo by Hudai Gayiran on Unsplash&#34;
@@ -1204,11 +1204,11 @@ $$f(x) = \int_{-\infty}^{x} e^{-t^2} dt$$&lt;p&gt;Press &lt;kbd&gt;CTRL&lt;/kbd&
         </item>
         <item>
         <title>Markdown Syntax Guide</title>
-        <link>http://localhost:1313/p/markdown-syntax-guide/</link>
+        <link>https://StandAloof.github.io/BlodZXF/p/markdown-syntax-guide/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/markdown-syntax-guide/</guid>
-        <description>&lt;img src="http://localhost:1313/p/markdown-syntax-guide/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post Markdown Syntax Guide" /&gt;&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
+        <guid>https://StandAloof.github.io/BlodZXF/p/markdown-syntax-guide/</guid>
+        <description>&lt;img src="https://StandAloof.github.io/BlodZXF/p/markdown-syntax-guide/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post Markdown Syntax Guide" /&gt;&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
 本文提供了一些基本的 Markdown 语法示例，这些示例可用于 Hugo 内容文件，同时展示了 Hugo 主题中基本 HTML 元素是否通过 CSS 进行装饰。&lt;/p&gt;
 &lt;h2 id=&#34;headings&#34;&gt;Headings
 &lt;/h2&gt;&lt;p&gt;The following HTML &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt;—&lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; elements represent six levels of section headings. &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt; is the highest section level while &lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; is the lowest.
@@ -1456,10 +1456,10 @@ $$f(x) = \int_{-\infty}^{x} e^{-t^2} dt$$&lt;p&gt;Press &lt;kbd&gt;CTRL&lt;/kbd&
         </item>
         <item>
         <title>Rich Content</title>
-        <link>http://localhost:1313/p/rich-content/</link>
+        <link>https://StandAloof.github.io/BlodZXF/p/rich-content/</link>
         <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/rich-content/</guid>
+        <guid>https://StandAloof.github.io/BlodZXF/p/rich-content/</guid>
         <description>&lt;p&gt;Hugo ships with several &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Built-in Shortcodes
 	
@@ -1538,11 +1538,11 @@ $$f(x) = \int_{-\infty}^{x} e^{-t^2} dt$$&lt;p&gt;Press &lt;kbd&gt;CTRL&lt;/kbd&
         </item>
         <item>
         <title>Placeholder Text</title>
-        <link>http://localhost:1313/p/placeholder-text/</link>
+        <link>https://StandAloof.github.io/BlodZXF/p/placeholder-text/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/placeholder-text/</guid>
-        <description>&lt;img src="http://localhost:1313/p/placeholder-text/matt-le-SJSpo9hQf7s-unsplash.jpg" alt="Featured image of post Placeholder Text" /&gt;&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;
+        <guid>https://StandAloof.github.io/BlodZXF/p/placeholder-text/</guid>
+        <description>&lt;img src="https://StandAloof.github.io/BlodZXF/p/placeholder-text/matt-le-SJSpo9hQf7s-unsplash.jpg" alt="Featured image of post Placeholder Text" /&gt;&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;
 &lt;p&gt;Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Exierant elisi ambit vivere dedere&lt;/li&gt;
@@ -1578,10 +1578,10 @@ $$f(x) = \int_{-\infty}^{x} e^{-t^2} dt$$&lt;p&gt;Press &lt;kbd&gt;CTRL&lt;/kbd&
         </item>
         <item>
         <title>Math Typesetting</title>
-        <link>http://localhost:1313/p/math-typesetting/</link>
+        <link>https://StandAloof.github.io/BlodZXF/p/math-typesetting/</link>
         <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/math-typesetting/</guid>
+        <guid>https://StandAloof.github.io/BlodZXF/p/math-typesetting/</guid>
         <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;
 &lt;p&gt;In this example we will be using &lt;a class=&#34;link&#34; href=&#34;https://katex.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;KaTeX
@@ -1647,11 +1647,11 @@ $$</description>
         </item>
         <item>
         <title>Emoji Support</title>
-        <link>http://localhost:1313/p/emoji-support/</link>
+        <link>https://StandAloof.github.io/BlodZXF/p/emoji-support/</link>
         <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/emoji-support/</guid>
-        <description>&lt;img src="http://localhost:1313/p/emoji-support/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post Emoji Support" /&gt;&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
+        <guid>https://StandAloof.github.io/BlodZXF/p/emoji-support/</guid>
+        <description>&lt;img src="https://StandAloof.github.io/BlodZXF/p/emoji-support/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post Emoji Support" /&gt;&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
 &lt;p&gt;The &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/functions/emojify/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;&lt;code&gt;emojify&lt;/code&gt;
 	
