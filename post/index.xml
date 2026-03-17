@@ -105,8 +105,8 @@ $$f(x) = \int_{-\infty}^{x} e^{-t^2} dt$$&lt;p&gt;Press &lt;kbd&gt;CTRL&lt;/kbd&
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;hugo-stack主题-短代码&#34;&gt;Hugo Stack主题 短代码
-&lt;/h2&gt;&lt;h3 id=&#34;abbr&#34;&gt;Abbr
-&lt;/h3&gt;&lt;h3 id=&#34;彩色文字&#34;&gt;彩色文字
+&lt;/h2&gt;&lt;h3 id=&#34;abbr--ignore&#34;&gt;Abbr- ignore
+&lt;/h3&gt;&lt;h3 id=&#34;彩色文字--ignore&#34;&gt;彩色文字- ignore
 &lt;/h3&gt;&lt;h3 id=&#34;按钮&#34;&gt;按钮
 &lt;/h3&gt;&lt;h3 id=&#34;notice&#34;&gt;Notice
 &lt;/h3&gt;
@@ -902,18 +902,18 @@ $$f(x) = \int_{-\infty}^{x} e^{-t^2} dt$$&lt;p&gt;Press &lt;kbd&gt;CTRL&lt;/kbd&
 &lt;/h3&gt;&lt;h3 id=&#34;选项卡&#34;&gt;选项卡
 &lt;/h3&gt;&lt;div class=&#34;tabs&#34;&gt;
 
-&lt;input type=&#34;radio&#34; name=&#34;tabs&#34; id=&#34;tab-683954172-&#34;checked/&gt;
-&lt;label for=&#34;tab-683954172-&#34;&gt;中文&lt;/label&gt;
+&lt;input type=&#34;radio&#34; name=&#34;tabs&#34; id=&#34;tab-165938274-&#34;checked/&gt;
+&lt;label for=&#34;tab-165938274-&#34;&gt;中文&lt;/label&gt;
 &lt;div class=&#34;tab&#34;&gt;百合花（学名：Lilium）通称百合花，是百合目百合科的一属，为多年生草本球根植物，属内物种繁多，经常作为观赏植物。主要分布在亚洲东部、欧洲、北美洲等北半球温带地区，全球已发现有至少96个品种，其中5种产于台湾。近年更有不少经过人工杂交而产生的新品种，如OT百合、东方型百合、玫瑰百合等。百合属对猫来说有剧毒。&lt;/div&gt;
 
 
-&lt;input type=&#34;radio&#34; name=&#34;tabs&#34; id=&#34;tab-534197826-&#34;/&gt;
-&lt;label for=&#34;tab-534197826-&#34;&gt;English&lt;/label&gt;
+&lt;input type=&#34;radio&#34; name=&#34;tabs&#34; id=&#34;tab-983251476-&#34;/&gt;
+&lt;label for=&#34;tab-983251476-&#34;&gt;English&lt;/label&gt;
 &lt;div class=&#34;tab&#34;&gt;Lilium is a genus of herbaceous flowering plants growing from bulbs, all with large prominent flowers. They are the true lilies. Lilies are a group of flowering plants which are important in culture and literature in much of the world. Most species are native to the northern hemisphere and their range is temperate climates and extends into the subtropics. Many other plants have &amp;ldquo;lily&amp;rdquo; in their common names, but do not belong to the same genus and are therefore not true lilies.&lt;/div&gt;
 
 
-&lt;input type=&#34;radio&#34; name=&#34;tabs&#34; id=&#34;tab-753926814-&#34;/&gt;
-&lt;label for=&#34;tab-753926814-&#34;&gt;Español&lt;/label&gt;
+&lt;input type=&#34;radio&#34; name=&#34;tabs&#34; id=&#34;tab-926138745-&#34;/&gt;
+&lt;label for=&#34;tab-926138745-&#34;&gt;Español&lt;/label&gt;
 &lt;div class=&#34;tab&#34;&gt;Las especies de Lilium, comúnmente llamadas azucenas o lirios, constituyen un género con alrededor de 110 integrantes que se incluye dentro de la familia de las liliáceas. Los lirios son herbáceas perennes de tallos erectos con numerosas hojas alternas, lineares a lance balas. Crecen a partir de bulbos formados por capas de escamas carnosas sin túnica.&lt;/div&gt;
 
 
@@ -933,7 +933,7 @@ $$f(x) = \int_{-\infty}^{x} e^{-t^2} dt$$&lt;p&gt;Press &lt;kbd&gt;CTRL&lt;/kbd&
     &lt;iframe
         width=&#34;100%&#34;
         height=&#34;100%&#34;
-        src=&#34;https://sketch-your-mind.com/2025/sessions/sym/Presentation-Sketch-Your-Mind-Zsolt-Viczian.pdf&#34;
+        src=&#34;DemoArticle-AtomicHabits.pdf&#34;
         frameborder=&#34;0&#34;
         allowfullscreen=&#34;&#34;
         style=&#34;
@@ -988,7 +988,7 @@ $$f(x) = \int_{-\infty}^{x} e^{-t^2} dt$$&lt;p&gt;Press &lt;kbd&gt;CTRL&lt;/kbd&
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;aid=115841173554678&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;autoplay=0&amp;amp;high_quality=1&amp;amp;page=1&amp;aid=115841173554678&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -1556,7 +1556,7 @@ $$f(x) = \int_{-\infty}^{x} e^{-t^2} dt$$&lt;p&gt;Press &lt;kbd&gt;CTRL&lt;/kbd&
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;aid=498363026&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;autoplay=0&amp;amp;high_quality=1&amp;amp;page=1&amp;aid=498363026&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
